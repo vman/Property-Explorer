@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "prop-explorer-client-side-solution",
+    "id": "6a8cd15e-46d3-48bf-ab9e-28a8b1ef36e4",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "prop-explorer.spapp"
+  }
+}

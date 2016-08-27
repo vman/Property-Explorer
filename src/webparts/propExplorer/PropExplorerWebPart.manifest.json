@@ -1,0 +1,21 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "aab229e9-487b-4455-8730-0738b7a722b7",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "aab229e9-487b-4455-8730-0738b7a722b7",
+    "group": { "default": "Under Development" },
+    "title": { "default": "PropExplorer" },
+    "description": { "default": "PropExplorer description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "title": "Welcome to the SharePoint Framework!",
+      "description": "Webpart to Explore property pane options",
+      "reactive": true
+    }
+  }]
+}
